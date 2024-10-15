@@ -1,8 +1,5 @@
-Réalisation d'un projet de détection de fraudes dans les transactions par carte de crédit.
+Ce repertoire contient les différents codes de projets réalisé au sein de stages et de projets académique dans le domaine du Machine Learning et du Risk Management : 
 
-Méthodologie :
-
-  Collecte des données : Récupération et nettoyage des données de transactions pour préparer l'analyse.
-  Algorithme SVM : Implémentation d'un Support Vector Machine (SVM) pour la prédiction des fraudes.
-  Sur-échantillonnage : Application de techniques de sur-échantillonnage pour traiter le déséquilibre des classes dans les données.
-  Optimisation des hyperparamètres : Ajustement des paramètres du modèle pour améliorer la précision et la performance.
+Un projet concernant la détection de fraude par carte de crédit lors d'un projet académique.
+Une analyse de données biologique pour la prédiction des génotypes de l'Hépatite C, cela concerne seulement une partie effectué pendant mon stage.
+Et un projet académique portant sur l'Analyse des series temporelles et l'estimation de la VaR (Value at Risk).
